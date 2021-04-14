@@ -1,8 +1,0 @@
-top - 21:50:36 up  3:13,  1 user,  load average: 2.74, 2.93, 3.06
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 11.1 us,  7.8 sy,  0.0 ni, 80.0 id,  0.0 wa,  1.1 hi,  0.0 si,  0.0 st
-MiB Mem :  15942.6 total,  10917.5 free,   2008.5 used,   3016.6 buff/cache
-MiB Swap:   8192.0 total,   8192.0 free,      0.0 used.  12251.8 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  10081 arubiom   20   0  686792  72512  55408 S   6.7   0.4   0:39.09 tilix
